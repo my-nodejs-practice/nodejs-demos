@@ -2,7 +2,7 @@
 
 webpack-demos
 
-- [demo1]('https://github.com/my-webpack-practice/webpack-demos/tree/d1')
+- [demo1](https://github.com/my-webpack-practice/webpack-demos/tree/d1)
 
 ## 环境
 
