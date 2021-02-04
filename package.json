@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-demos",
+  "version": "1.0.0",
+  "description": "一些 nodejs 以及工具库的使用示例。",
+  "main": "01_helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-webpack-practice/webpack-demos.git"
+  },
+  "keywords": [],
+  "author": "lizhigao <lizhigao1231@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/my-webpack-practice/webpack-demos/issues"
+  },
+  "homepage": "https://github.com/my-webpack-practice/webpack-demos#readme",
+  "dependencies": {
+    "asar": "^3.0.3"
+  }
+}
